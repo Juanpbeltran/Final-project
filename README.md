@@ -1,3 +1,3 @@
 # Final-project
 ## Editing this file
-its a markdown
+Final document related to analyzing historical stock data.
